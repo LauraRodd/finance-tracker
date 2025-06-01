@@ -20,5 +20,5 @@ A clean and lightweight web application to help you manage your finances by trac
 ---
 
 
-👉 [See it live] (https://laurarodd.github.io/finance-tracker/)
+👉 [See it live](https://laurarodd.github.io/finance-tracker/)
 
