@@ -1,20 +1,20 @@
-# 💰 Personal Finance Tracker
+# Personal Finance Tracker
 
 A clean and lightweight web application to help you manage your finances by tracking income and expenses.
 
-## ✨ Features
+## Features
 
-- 📥 Add income and expenses with descriptions and amounts
-- 💹 Automatically calculates total balance, total income, and total expenses
-- 🗑️ Remove transactions with a single click
-- 💾 Data persists in your browser using localStorage (no login required)
+- Add income and expenses with descriptions and amounts
+- Automatically calculates total balance, total income, and total expenses
+- Remove transactions with a single click
+- Data persists in your browser using localStorage (no login required)
 
 ---
 
-## 🛠️ Built With
+## Built With
 
-- **HTML5** – Structure of the web app
-- **CSS3** – Styling and responsive layout
+- **HTML5** 
+- **CSS3** 
 - **JavaScript (Vanilla)** – Core functionality, DOM manipulation, localStorage
 
 ---
